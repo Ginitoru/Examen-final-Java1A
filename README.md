@@ -5,4 +5,4 @@
                                       : sa afiseze toata lista de cursuri.
                                       : sa afiseze doar cursurile de Programare.
                                       : sa se creeze un fir de executie care sa afiseze nr de cursuri la 2 min.
-                                      : Institutie este de tip Singleton.
+                                      : Institutie este de tip Singlleton.
