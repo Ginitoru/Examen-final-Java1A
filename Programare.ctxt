@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Programare
+comment1.params=
+comment1.target=Programare()
+comment2.params=nume\ pret
+comment2.target=Programare(java.lang.String,\ double)
+comment3.params=
+comment3.target=java.lang.String\ toString()
+numComments=4

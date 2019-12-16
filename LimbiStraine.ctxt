@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=LimbiStraine
+comment1.params=
+comment1.target=LimbiStraine()
+comment2.params=nume\ pret
+comment2.target=LimbiStraine(java.lang.String,\ double)
+comment3.params=
+comment3.target=java.lang.String\ toString()
+numComments=4
