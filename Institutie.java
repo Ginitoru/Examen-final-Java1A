@@ -3,7 +3,7 @@ public class Institutie{
     int i = 0;
     Map<Integer,Curs> map = new HashMap<>();
     private static Institutie instance;
-
+                                                           //si la examen am uitat sa fac constructor privat la "Institutie":DDD     
     public static final Institutie getInstance(){
         if(instance == null){
             instance = new Institutie();
