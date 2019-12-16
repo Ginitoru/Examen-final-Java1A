@@ -6,3 +6,4 @@
                                       : sa afiseze doar cursurile de Programare.
                                       : sa se creeze un fir de executie care sa afiseze nr de cursuri la 2 min.
                                       : Institutie este de tip Singlleton.
+Daca in lista sunt mai mult de 30 de cursuri sa se arunce o exceptie.                                      
